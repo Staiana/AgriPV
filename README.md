@@ -38,6 +38,9 @@ notebooks/Am_Lecoufle_graphs.ipynb
 
 The notebook is fully self-contained: it reads the CSVs, computes derived variables (PPFD, ΔT), runs FvCB simulations, and generates all visualisations and tables.
 
+Link to a jupyter colab file with the runable code
+https://colab.research.google.com/drive/15nj1Qc0cEmE5TSNOLaL9_iyo93QXr6AR?usp=sharing
+
 ## 🔍 Key Features
 ### Multi-season solar radiation parsing:
 
